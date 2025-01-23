@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmad Kaddoura 👋</h1>
-<h3 align="center">Technical Artist | 3D Computer Vision Engineer</h3>
+<h3 align="center"> Machine Learning Engineer | Computer Vision Engineer | Technical Artist |</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=3D+Computer+Vision+Engineer;Technical+Artist;Gaussian+Splatting+Developer;Point+Cloud+Processing+Specialist" alt="Typing SVG" />

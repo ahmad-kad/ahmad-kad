@@ -2,7 +2,7 @@
 <h3 align="center"> Machine Learning Engineer | Computer Vision Engineer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=3D+Computer+Vision+Engineer;Technical+Artist;Gaussian+Splatting+Developer;Point+Cloud+Processing+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=3D+Computer+Vision+Engineer;" alt="Typing SVG" />
 </p>
 ## Featured Projects
 
